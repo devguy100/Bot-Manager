@@ -43,8 +43,8 @@ All credits go to simple.dev
 <details>
 <summary>Click to expand!</summary>
 
-> This bot was made by simple.dev with some help of my dear friend audiro.
-\n
+**This bot was made by simple.dev with some help of my dear friend audiro.**
+
 **NOTE: You must have/keep credits in the help command saying the following:**
 Bot made by simple.dev & audiro
 </details>
