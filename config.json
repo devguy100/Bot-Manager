@@ -1,0 +1,19 @@
+{
+  "token": "MTEzNDA4Mzk1ODY1Nzc4MTk1MQ.GcBkiF.RhbQrCi_e5XWoJSSpW4VRql3oZY6WM4q9Xr65k",
+  "MainConfig": {
+    "prefix": ","
+  },
+  "SeverRoles": {
+    "Founder": "1065302545708367924",
+    "Owners": "1065326168477290546",
+    "CoOwner": "1065326487793844355",
+    "CheifHumanResources": "1065326773606285415",
+    "HumanResources": "1065327089705824408",
+    "Administrator": "1065327287165272194",
+    "Moderator": "1065327465314136095",
+    "ChiefSupporter": "1065328038671294616",
+    "NewSupporter": "1065328280653279335",
+    "Supporter": "1065328122569965609",
+    "Visitor": "1065329096944533595"
+  }
+}
