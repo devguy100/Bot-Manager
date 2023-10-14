@@ -700,7 +700,7 @@ client.on('messageCreate', async msg => {
     if (msg.author.id  == '848185810741493810') {
       const helpEmbed = new MessageEmbed()
       .setAuthor(`Requested by ${msg.author.tag} | Page: Home`)
-      .setDescription(`Welcome to Electro | Development, I have only have prefix commands and soon I will have slash commands :D\nCurrent Developers:\n\`dxlz#9841\`\n\`AudiRo#7652\`\n\nYou can navigate the pages by clicking "Back" or "Next". To go home, simply click "Home".`)
+      .setDescription(`Welcome to Electro | Development, I have only have prefix commands and soon I will have slash commands :D\nCurrent Developers:\n\`dxlz#9841\`\n\`AudiRo#7652\`\n\nYou can navigate the pages by clicking "Back" or "Next". To go home, simply click "Home".\n: Bot made by simple.dev & audiro`)
       .setFooter('Page: 1/3')
       const helpButtons1 = new MessageActionRow()
       .addComponents(
