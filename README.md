@@ -34,6 +34,7 @@ All credits go to simple.dev
    1. Fill in all required data in `config.json ` **NOTE:** *If you're on replit.com, it is exposed to everyone!(use process.env instead)*
    2. You can adjust some settings in the other `.json` Files, **BUT PLEASE __KEEP__ MY CREDITS & ADS!** This is the only way on how my hard work is "revenued".
    3. Now start the bot by opening a cmd line in that folder and typing: `node .` or `node index.js`
+   4. MAKE SURE TO CHANGE ALL THE IDS OR THE BOT WILL NOT WORK!
 
 </details>
 
