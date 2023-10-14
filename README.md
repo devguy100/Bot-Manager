@@ -16,7 +16,6 @@ All credits go to simple.dev
 
 <details>
   <summary>Click to expand</summary>
-  **NOTE:** It is suggested to use the [Sharded (&Clustered) version](https://github.com/NotSaksh/Multipurpose-discord-bot/tree/sharded_with_mongo), if you plan on using it for a VERIFIED BOT (on more then 2000 Servers!)
 
   1. Download the [Source Code](https://github.com/devguy100/Bot-Manager)
      * Either by: `git clone https://github.com/devguy100/Bot-Manager `
