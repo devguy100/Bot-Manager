@@ -8,7 +8,7 @@ All credits go to simple.dev
   <summary>Click to expand</summary>
 
   * [nodejs](https://nodejs.org) version 16.6 or higher, I recommend the latest STABLE version
-  * A VPS would be advised, so you don't need to keep your PC/laptop/RasPi 24/7 online! [Click here for a Repl setup](<repl link>)).
+  * A VPS would be advised, so you don't need to keep your PC/laptop/RasPi 24/7 online!
 
 </details>
 
@@ -32,11 +32,19 @@ All credits go to simple.dev
   **NOTE:** *You can do the exact same configuration inside of the `example.env` file, just make sure to rename it to `.env` or use environment variables!*
 
    1. Fill in all required data in `config.json ` **NOTE:** *If you're on replit.com, it is exposed to everyone!(use process.env instead)*
-   2. Fill in all required data in the `.json` 
-   3. You can adjust some settings in the other `.json` Files, **BUT PLEASE __KEEP__ MY CREDITS & ADS!** This is the only way on how my hard work is "revenued".
-   4. Now start the bot by opening a cmd line in that folder and typing: `node .` or `node index.js`
+   2. You can adjust some settings in the other `.json` Files, **BUT PLEASE __KEEP__ MY CREDITS & ADS!** This is the only way on how my hard work is "revenued".
+   3. Now start the bot by opening a cmd line in that folder and typing: `node .` or `node index.js`
 
 </details>
 
 
-Any help? DM ME: simple.dev 
+## 📝 Credits
+
+<details>
+<summary>Click to expand!</summary>
+
+# This bot was made by simple.dev with some help of my dear friend audiro.
+
+**NOTE: You must have/keep credits in the help command saying the following:**
+Bot made by simple.dev & audiro
+</details>
