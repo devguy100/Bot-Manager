@@ -1,6 +1,7 @@
-All credits go to simple.dev
+# Important Notes
+This is a guide to set this bot manager up. The version is discord.js v13. It took me a ton of time and dedication. There might be bugs but there shouldn't be, if so dm me at `simple.dev`. This bot was made at the start of 2022 that's why its not the best!
 
-# Installation Guide 🔥
+# Installation  Guide 🔥
 
 ## ✅ Hosting Requirements
 
