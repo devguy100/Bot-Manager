@@ -1,5 +1,5 @@
 # Important Notes
-This is a guide to set this bot manager up. The version is discord.js v13.4.0. It took me a ton of time and dedication. There might be bugs but there shouldn't be, if so dm me at `simple.dev`. This bot was made at the start of 2022 that's why its not the best!
+This is a guide to set this bot manager up. The version is discord.js v13.4.0. It took me a ton of time and dedication. There might be bugs but there shouldn't be, if so dm me at `simplyadev`. This bot was made at the start of 2022 that's why its not the best!
 
 # Installation  Guide 🔥
 
@@ -46,6 +46,10 @@ This is a guide to set this bot manager up. The version is discord.js v13.4.0. I
 <summary>Click to expand!</summary>
 
 **This bot was made by simple.dev with some help of my dear friend audiro.**
+
+Our Discord:
+> `simplyadev`
+> `audiro`
 
 **NOTE: You must have/keep credits in the help command saying the following:**
 Bot made by simple.dev & audiro
